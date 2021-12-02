@@ -3,4 +3,4 @@
 ### Heading
 #### Heading
 *Italic
-** Bold And Italic
+**Bold
